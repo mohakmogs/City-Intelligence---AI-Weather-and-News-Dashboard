@@ -1,0 +1,3 @@
+Add your weather backgrounds in this folder using these exact names:
+clear.jpg, cloudy.jpg, rainy.jpg, storm.jpg, snow.jpg, fog.jpg
+The app uses default.jpg (your supplied nebula image) whenever a matching image is not present.
