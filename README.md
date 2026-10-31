@@ -2,7 +2,7 @@
 
 A responsive Streamlit dashboard that combines current city weather, recent news search, and a LangChain AI assistant in a glassmorphism interface.
 
-live link :
+live link :https://city-intelligence---ai-weather-and-news-dashboard.streamlit.app/
 
 ## Features
 
